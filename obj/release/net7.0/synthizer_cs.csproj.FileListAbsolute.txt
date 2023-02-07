@@ -1,0 +1,12 @@
+C:\Users\mohamed\projects\synthizer_cs\bin\release\net7.0\synthizer_cs.deps.json
+C:\Users\mohamed\projects\synthizer_cs\bin\release\net7.0\synthizer_cs.dll
+C:\Users\mohamed\projects\synthizer_cs\bin\release\net7.0\synthizer_cs.pdb
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.csproj.AssemblyReference.cache
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.AssemblyInfoInputs.cache
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.AssemblyInfo.cs
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.dll
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\refint\synthizer_cs.dll
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\synthizer_cs.pdb
+C:\Users\mohamed\projects\synthizer_cs\obj\release\net7.0\ref\synthizer_cs.dll
